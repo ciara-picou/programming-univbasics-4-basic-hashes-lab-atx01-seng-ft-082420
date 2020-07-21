@@ -7,8 +7,7 @@ def my_hash
    name : "The Blue Room" ,
    artist : "Suzanne Valadon" ,
    movement : "Post Impressionism"
-   year : 
-   
+   year : 1923
  }
 end
 
